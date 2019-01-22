@@ -27,4 +27,4 @@
 
 * Sélectionne de l'entrainement
 * Démarrer un entrainement
-* Timer
+* Timer# fitness-center
