@@ -28,3 +28,5 @@
 * Sélectionne de l'entrainement
 * Démarrer un entrainement
 * Timer# fitness-center
+# Birdy
+# Fitness-center
